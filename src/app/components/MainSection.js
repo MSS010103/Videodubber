@@ -5,23 +5,23 @@ const triangleStyle = {
   height: 0,
   borderLeft: "10px solid transparent",
   borderRight: "10px solid transparent",
-  borderBottom: "15px solid #ff5a5a", // Lighter red
-  marginRight: "8px", // Space between triangle and text
+  borderBottom: "15px solid #ff5a5a", 
+  marginRight: "8px", 
 };
 
 const buttonStyle = {
-  border: "2px solid #ff5a5a", // Lighter red
+  border: "2px solid #ff5a5a", 
   color: "black",
   padding: "10px 20px",
   display: "flex",
   alignItems: "center",
   gap: "8px",
-  minWidth: "150px", // Make the button wider
+  minWidth: "150px", 
 };
 
 const visitButtonStyle = {
   border: "1px solid #ccc",
-  color: "#4a5568", // Gray color
+  color: "#4a5568", 
   padding: "10px 20px",
   display: "flex",
   alignItems: "center",
